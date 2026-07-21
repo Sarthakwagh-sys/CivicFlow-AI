@@ -1,0 +1,6 @@
+{
+  "name": "CivicFlow AI",
+  "description": "Multi-Agent Traffic Intelligence & Decision-Support System powered by Gemini, ADK agents, MCP tools, and Google Maps",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
